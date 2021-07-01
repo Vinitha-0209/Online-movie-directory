@@ -1,0 +1,33 @@
+.img{
+    background-image: url("image.jpg");
+    height: 600px;
+    margin: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  /* position: relative; */
+}
+body{
+    background-color: black;
+}
+#form-id{
+    margin-left: 750px;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+/* .container{
+    border: tan 2px solid;
+    padding: 100px;
+} */
+#loginhead{
+    color: wheat;
+}
+.moive{
+    width: 300px;
+    height: 30px;
+    /* background-color:steelblue; */
+    padding: 10px;
+}
+.user{
+    color: whitesmoke;
+}
